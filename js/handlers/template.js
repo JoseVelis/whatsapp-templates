@@ -1,6 +1,6 @@
 const template1 = new Template(
   "Bienvenida",
-  "Hola me llamo Linder Hassinger, bienvenido al curso de progrmación funcional",
+  "Hola me llamo José Velis, bienvenido al curso de progrmación funcional",
   "#hash1, #hash2",
   "link1",
   "date1"
